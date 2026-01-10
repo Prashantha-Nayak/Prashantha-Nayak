@@ -1,108 +1,107 @@
 <h1 align="center">
-  Hello World! 👋 I'm Prashanth Nayak
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200px" align="right" alt="coding animation" />
+  Hi 👋, I'm Prashanth Nayak
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px" align="right" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79820&width=435&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Impactful+Web+Solutions;Eager+Learner+and+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79820&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;Backend-Focused+Problem+Solver" />
 </p>
 
 <p align="center">
-  <a href="mailto:Prashanthnayak600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Prashantha-Nayak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/prashanth-nayak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio-prashantha-nayaks-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:Prashanthnayak600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Prashantha-Nayak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prashanthnayak100/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-prashantha-nayaks-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 **About Me**
-- 🌍 I'm based in Karkala, Udupi
-- 💻 Web Developer | Passionate about Full Stack Development
-- 🌱 Currently improving my skills in **React**, **Node.js**, and **Machine Learning**.
-- 🎓 B.Tech in Computer Science at **Srinivas University**.
-- 💡 Enthusiast for developing **real-world solutions** using tech.
+## 🚀 About Me
+
+- 💻 **Java Full Stack Developer** (Backend-focused)
+- 🌱 Strong in **Core Java, Spring Boot, REST APIs, JDBC, MySQL**
+- 🧩 Enjoy building **scalable backend systems** and clean architectures
+- 🎓 **B.Tech in Computer Science** — Srinivas University
+- 📍 Based in **Karkala, Udupi**
+- 🎯 Actively seeking **Java Backend / Full Stack Developer roles**
 
 ---
 
-## 💼 **Skills**
-<div align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" style="margin: 5px;"/>
-  </a>
-</div>
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45"/>
+</p>
 
 ---
 
-## 🔧 **Currently Learning**
-<div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" style="margin: 5px;"/>
-  </a>
-</div>
+## 💼 Experience
+
+### Software Engineer Intern — Chipsy IT Services Pvt. Ltd.
+📅 *May 2024 – June 2024*
+
+- Developed responsive UI using **React, HTML, CSS, JavaScript**
+- Integrated frontend components with **REST APIs**
+- Collaborated using **Git/GitHub** in an agile environment
+- Gained hands-on exposure to **full-stack development workflows**
 
 ---
 
-## 📈 **GitHub Stats**
+## 🔗 Featured Projects
+
+### 🔹 Employee Management System (Core Java)
+- CRUD-based application using **Java Collections**
+- Sorting with **Comparator**, custom exception handling
+- Modular design using **OOP & Interfaces**
+
+### 🔹 NASA APOD Explorer (Full Stack)
+- Spring Boot backend with REST APIs & caching
+- React frontend with API integration and dynamic UI
+- Optimized performance by reducing redundant API calls
+
+### 🔹 Product Category Management System (Spring Boot + MySQL)
+- REST API with **CRUD operations**
+- Layered architecture (Controller, Service, Repository)
+- JDBC/JPA integration with **MySQL**
+- API testing using **Postman**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prashantha-Nayak&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantha-Nayak&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashantha-Nayak&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantha-Nayak&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🛠 **Experience**
-- **Front End Web Development Intern** at Chipsy IT Services Pvt Ltd (May 2024 – June 2024)
-  - Developed responsive UI using **React**, **HTML**, **CSS**.
-  - Collaborated in software lifecycle and project analysis.
-  
-- **Web Developer** at Coding Raja Technologies (August 2023 – September 2023)
-  - Built **resume builder** and **music player** web apps.
+## 📫 Contact Me
+
+- 📧 Email: **Prashanthnayak600@gmail.com**
+- 💼 LinkedIn: [Prashanth Nayak](https://www.linkedin.com/in/prashanthnayak100/)
+- 🌐 Portfolio: [View Portfolio](https://portfolio-prashantha-nayaks-projects.vercel.app/)
+- 🧑‍💻 GitHub: [Prashantha-Nayak](https://github.com/Prashantha-Nayak)
 
 ---
 
-## 🔗 **Projects**
-- **Chat Application** – Built with **React** and **Chat Engine**, featuring multimedia support and enhanced UI/UX.
-- **E-commerce Website** – Developed using **React.js**, designed user-friendly product listings and checkout flow.
-- **Smart City Application** – Led a team to create **Cityscape**, a comprehensive urban navigator for transportation, hotels, and services.
-
----
-
-## 📫 **Get in Touch**
-- Email: [Prashanthnayak600@gmail.com](mailto:Prashanthnayak600@gmail.com)
-- GitHub: [Prashanth Nayak](https://github.com/Prashantha-Nayak)
-- LinkedIn: [Prashanth Nayak](https://www.linkedin.com/in/prashanth-nayak)
-- Portfolio: [Prashanth's Portfolio](https://portfolio-prashantha-nayaks-projects.vercel.app/)
+⭐ *If you like my work, consider starring my repositories!*
